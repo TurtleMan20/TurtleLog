@@ -2,7 +2,7 @@
 
 Only Existing Types Are Error Sucess And Warning
 
-Example:
+Example: 
 
 #include "TurtleLog.hpp"
 
