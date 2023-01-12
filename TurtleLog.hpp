@@ -6,7 +6,7 @@ enum LogType{
  Warning = 3
 };
 
-namespace UFLog {
+namespace TurtleLog {
 
 void Log(std::string message, LogType Type){
 
